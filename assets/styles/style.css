@@ -152,7 +152,7 @@ h1,h2,h3{
 /*Hero*/
 
 .hero{
-    background-image: url(/img/hero.jpg);
+    background-image: url(/assets/img/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
