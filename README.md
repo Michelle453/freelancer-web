@@ -13,9 +13,6 @@ Esta página web ha sido desarrollada utilizando **HTML y CSS**, con un diseño 
 - **CSS3**: Para el diseño y estilos.
 - **Netlify**: Para la implementación y alojamiento.
 
-## 📷 Captura de Pantalla
-_Agrega aquí una imagen de tu sitio web_
-
 ## 🚀 Características
 ✅ Diseño responsivo 📱💻  
 ✅ Estilos personalizados 🎨  
